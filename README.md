@@ -1,12 +1,11 @@
-# Project : Movie_App_Project_with_Firebase (RC-08)
+# Project : Movie App (RC-08)
+
+## Project Outcome
+![Project gif](Animation.gif)
 
 ## Description
 
-Project aims to International film vision management create App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+Project aims to create a Movie App.
 
 ## Project Skeleton
 
@@ -45,6 +44,22 @@ SOLUTION
 
 Build a Movie App using ReactJS.
 
+### At the end of the project, following topics are to be covered;
+
+- HTML
+
+- CSS
+
+- JS
+
+- ReactJS
+
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS & JS & ReactJS.
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
 ## Steps to Solution
 
 - Step 1 : Create React App using `npx create-react-app movie-app`
@@ -61,6 +76,6 @@ Build a Movie App using ReactJS.
 
 ## Notes
 
-- Assignments for code pieces will be sent to the developers' e-mail addresses.
+- You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
