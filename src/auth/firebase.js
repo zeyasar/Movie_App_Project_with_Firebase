@@ -10,6 +10,7 @@ import {
   updateProfile,
 } from "firebase/auth";
 
+// "AIzaSyDdVlW1A4L-K5dlxKet-vbM7Bn-sohq66k"
 // const firebaseConfig = {
 //     apiKey: process.env.REACT_APP_apiKey,
 //     authDomain: process.env.REACT_APP_authDomain,
